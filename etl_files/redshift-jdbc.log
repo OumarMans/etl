@@ -1,0 +1,914 @@
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+11:59:00.959 (1) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:mysql://82.165.102.194:3306/test-dwh?noDatetimeStringSync=true")
+    trying com.mysql.jdbc.Driver
+getConnection returning com.mysql.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:mysql://82.165.102.194:3306/test-dwh?noDatetimeStringSync=true")
+    trying com.mysql.jdbc.Driver
+getConnection returning com.mysql.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+12:01:14.202 (6) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:mysql://82.165.102.194:3306/test-dwh?noDatetimeStringSync=true")
+    trying com.mysql.jdbc.Driver
+getConnection returning com.mysql.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:mysql://82.165.102.194:3306/test-dwh?noDatetimeStringSync=true")
+    trying com.mysql.jdbc.Driver
+getConnection returning com.mysql.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+12:12:15.291 (0) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+12:12:18.057 (1) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+12:12:20.658 (2) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:mysql://82.165.102.194:3306/test-dwh?noDatetimeStringSync=true&rewriteBatchedStatements=true")
+    trying com.mysql.jdbc.Driver
+getConnection returning com.mysql.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+12:47:18.306 (1) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+12:47:18.548 (2) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+12:47:18.674 (3) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+12:54:36.194 (1) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+12:54:36.371 (2) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+12:54:36.465 (3) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+SQLState(42P01) vendor code(500310)
+java.sql.SQLException: [Amazon](500310) Invalid operation: relation "public.fact_invoices" does not exist;
+	at com.amazon.exceptions.jdbc4.JDBC4ExceptionConverter.convertToJDBC4Exception(Unknown Source)
+	at com.amazon.exceptions.jdbc4.JDBC4ExceptionConverter.toSQLException(Unknown Source)
+	at com.amazon.exceptions.ExceptionConverter.toSQLException(Unknown Source)
+	at com.amazon.jdbc.common.SPreparedStatement.<init>(Unknown Source)
+	at com.amazon.jdbc.jdbc41.S41PreparedStatement.<init>(Unknown Source)
+	at com.amazon.redshift.core.jdbc41.PGJDBC41PreparedStatement.<init>(PGJDBC41PreparedStatement.java:49)
+	at com.amazon.redshift.core.jdbc41.PGJDBC41ObjectFactory.createPreparedStatement(PGJDBC41ObjectFactory.java:119)
+	at com.amazon.jdbc.common.SConnection.prepareStatement(Unknown Source)
+	at com.amazon.jdbc.common.SConnection.prepareStatement(Unknown Source)
+	at koakult.fact_invoices_0_1.Fact_Invoices.tSAPHanaInput_2Process(Fact_Invoices.java:7222)
+	at koakult.fact_invoices_0_1.Fact_Invoices.runJobInTOS(Fact_Invoices.java:12256)
+	at koakult.fact_invoices_0_1.Fact_Invoices.main(Fact_Invoices.java:12084)
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+12:55:24.837 (1) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+12:55:25.037 (2) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+12:55:25.151 (3) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+13:02:34.649 (5) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+13:02:34.749 (6) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+13:02:34.857 (7) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+13:04:15.545 (1) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+13:04:15.925 (2) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+13:04:16.027 (3) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:mysql://82.165.102.194:3306/test-dwh?noDatetimeStringSync=true")
+    trying com.mysql.jdbc.Driver
+getConnection returning com.mysql.jdbc.Driver
+DriverManager.getConnection("jdbc:mysql://82.165.102.194:3306/test-dwh?noDatetimeStringSync=true")
+    trying com.mysql.jdbc.Driver
+getConnection returning com.mysql.jdbc.Driver
+DriverManager.getConnection("jdbc:mysql://82.165.102.194:3306/test-dwh?noDatetimeStringSync=true")
+    trying com.mysql.jdbc.Driver
+getConnection returning com.mysql.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:mysql://82.165.102.194:3306/test-dwh?noDatetimeStringSync=true&rewriteBatchedStatements=true")
+    trying com.mysql.jdbc.Driver
+getConnection returning com.mysql.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+13:05:08.399 (5) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+13:05:08.520 (6) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+13:05:08.644 (7) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+13:11:11.033 (1) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+13:11:11.223 (2) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+13:11:11.339 (3) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+SQLState(HY000) vendor code(600000)
+java.sql.SQLException: [Amazon](600000) Error setting/closing connection: An existing connection was forcibly closed by the remote host.
+	at com.amazon.exceptions.jdbc4.JDBC4ExceptionConverter.convertToJDBC4Exception(Unknown Source)
+	at com.amazon.exceptions.jdbc4.JDBC4ExceptionConverter.toSQLException(Unknown Source)
+	at com.amazon.jdbc.common.SPreparedStatement.executeWithParams(Unknown Source)
+	at com.amazon.jdbc.common.SPreparedStatement.executeAnyUpdate(Unknown Source)
+	at com.amazon.jdbc.common.SPreparedStatement.executeUpdate(Unknown Source)
+	at koakult.fact_orders_1_0.Fact_Orders.tSAPHanaInput_1Process(Fact_Orders.java:4283)
+	at koakult.fact_orders_1_0.Fact_Orders.tRedshiftConnection_1Process(Fact_Orders.java:792)
+	at koakult.fact_orders_1_0.Fact_Orders.runJobInTOS(Fact_Orders.java:11255)
+	at koakult.fact_orders_1_0.Fact_Orders.main(Fact_Orders.java:11083)
+SQLState(08006) vendor code(-708)
+com.sap.db.jdbc.exceptions.jdbc40.SQLNonTransientConnectionException: Data receive failed [Software caused connection abort: recv failed].
+	at com.sap.db.jdbc.exceptions.jdbc40.SQLNonTransientConnectionException.createException(SQLNonTransientConnectionException.java:40)
+	at com.sap.db.jdbc.exceptions.SQLExceptionSapDB.createException(SQLExceptionSapDB.java:252)
+	at com.sap.db.jdbc.exceptions.SQLExceptionSapDB.createException(SQLExceptionSapDB.java:214)
+	at com.sap.db.jdbc.exceptions.SQLExceptionSapDB.generateSQLException(SQLExceptionSapDB.java:166)
+	at com.sap.db.jdbc.exceptions.ConnectionException.createException(ConnectionException.java:22)
+	at com.sap.db.jdbc.ConnectionSapDB.execute(ConnectionSapDB.java:1072)
+	at com.sap.db.jdbc.ConnectionSapDB.execute(ConnectionSapDB.java:864)
+	at com.sap.db.jdbc.ConnectionSapDB.dropCursor(ConnectionSapDB.java:1687)
+	at com.sap.db.jdbc.ResultSetSapDB.close(ResultSetSapDB.java:706)
+	at com.sap.db.jdbc.ResultSetSapDB.close(ResultSetSapDB.java:693)
+	at com.sap.db.jdbc.StatementSapDB.closeResultSet(StatementSapDB.java:211)
+	at com.sap.db.jdbc.StatementSapDB.close(StatementSapDB.java:191)
+	at com.sap.db.jdbc.trace.Statement.close(Statement.java:126)
+	at koakult.fact_orders_1_0.Fact_Orders.tSAPHanaInput_1Process(Fact_Orders.java:4305)
+	at koakult.fact_orders_1_0.Fact_Orders.tRedshiftConnection_1Process(Fact_Orders.java:792)
+	at koakult.fact_orders_1_0.Fact_Orders.runJobInTOS(Fact_Orders.java:11255)
+	at koakult.fact_orders_1_0.Fact_Orders.main(Fact_Orders.java:11083)
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.mysql.jdbc.Driver
+    trying com.mysql.fabric.jdbc.FabricMySQLDriver
+    trying com.sap.db.jdbc.Driver
+SQLState(HY000) vendor code(-813)
+com.sap.db.jdbc.exceptions.JDBCDriverException: nullCannot connect to jdbc:sap://10.55.117.200:30015 [Cannot connect to host 10.55.117.200:30015 [Connection timed out: connect], -813.].
+	at com.sap.db.jdbc.exceptions.SQLExceptionSapDB.createException(SQLExceptionSapDB.java:230)
+	at com.sap.db.jdbc.exceptions.SQLExceptionSapDB.createException(SQLExceptionSapDB.java:214)
+	at com.sap.db.jdbc.exceptions.SQLExceptionSapDB.generateDatabaseException(SQLExceptionSapDB.java:197)
+	at com.sap.db.jdbc.Driver.connect(Driver.java:298)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at koakult.fact_deliveries_0_1.Fact_Deliveries.tSAPHanaInput_6Process(Fact_Deliveries.java:4966)
+	at koakult.fact_deliveries_0_1.Fact_Deliveries.tSAPHanaInput_4Process(Fact_Deliveries.java:2286)
+	at koakult.fact_deliveries_0_1.Fact_Deliveries.runJobInTOS(Fact_Deliveries.java:11849)
+	at koakult.fact_deliveries_0_1.Fact_Deliveries.runJob(Fact_Deliveries.java:11696)
+	at koakult.fact_orders_1_0.Fact_Orders.tRunJob_1Process(Fact_Orders.java:6974)
+	at koakult.fact_orders_1_0.Fact_Orders.runJobInTOS(Fact_Orders.java:11267)
+	at koakult.fact_orders_1_0.Fact_Orders.main(Fact_Orders.java:11083)
+    trying com.amazon.redshift.jdbc.Driver
+getConnection failed: com.sap.db.jdbc.exceptions.JDBCDriverException: SAP DBTech JDBC: Cannot connect to jdbc:sap://10.55.117.200:30015 [Cannot connect to host 10.55.117.200:30015 [Connection timed out: connect], -813.].
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+11:55:47.062 (1) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+11:55:47.296 (2) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+11:55:47.387 (3) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+12:01:27.146 (5) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+12:01:27.232 (6) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+12:01:27.335 (7) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+12:08:34.555 (9) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+12:08:34.649 (10) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+12:08:34.738 (11) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+12:45:33.241 (1) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+12:45:33.501 (2) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+12:45:33.601 (3) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+SQLState(HY000) vendor code(12080)
+java.sql.SQLNonTransientException: [Amazon][JDBC](12080) Statement object has been closed.
+	at com.amazon.exceptions.jdbc4.JDBC4ExceptionConverter.createSQLException(Unknown Source)
+	at com.amazon.exceptions.ExceptionConverter.toSQLException(Unknown Source)
+	at com.amazon.exceptions.ExceptionConverter.toSQLException(Unknown Source)
+	at com.amazon.jdbc.common.SStatement.checkIfOpen(Unknown Source)
+	at com.amazon.jdbc.common.SPreparedStatement.clearBatch(Unknown Source)
+	at com.amazon.jdbc.common.SPreparedStatement.close(Unknown Source)
+	at com.amazon.jdbc.common.SStatement.finalize(Unknown Source)
+	at java.lang.System$2.invokeFinalize(Unknown Source)
+	at java.lang.ref.Finalizer.runFinalizer(Unknown Source)
+	at java.lang.ref.Finalizer.access$100(Unknown Source)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Unknown Source)
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+12:50:06.920 (5) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+12:50:07.015 (6) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+12:50:07.107 (7) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+12:55:40.077 (9) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+12:55:40.181 (10) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+12:55:40.283 (11) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:sap://10.55.117.200:30015")
+    trying com.sap.db.jdbc.Driver
+getConnection returning com.sap.db.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+10:15:17.080 (0) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+10:16:26.762 (2) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+10:29:09.621 (0) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+10:29:13.597 (1) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+10:31:18.772 (0) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+10:31:21.851 (1) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+10:32:26.063 (0) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+10:32:29.175 (1) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+10:33:32.683 (0) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+10:33:35.808 (1) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+10:34:47.956 (0) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+10:34:51.154 (1) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+10:36:34.201 (0) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+10:36:37.873 (1) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+10:37:01.315 (0) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+10:37:04.795 (1) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+10:38:52.070 (3) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+10:49:04.171 (0) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+10:49:07.461 (1) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+10:50:04.120 (0) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+10:50:07.432 (1) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+10:52:45.589 (0) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+10:52:48.782 (1) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+10:54:28.380 (0) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+10:54:31.540 (1) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+10:56:44.428 (0) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+10:56:48.640 (1) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+10:58:28.540 (3) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+11:00:10.363 (5) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+11:01:59.559 (7) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+11:03:36.201 (9) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+11:05:12.960 (11) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+11:09:23.066 (0) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+11:09:26.342 (1) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+11:11:06.251 (3) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+11:12:48.386 (5) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+11:14:32.946 (7) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+11:16:08.729 (9) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
+DriverManager.getConnection("jdbc:redshift://redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439/dwh?loglevel=1")
+    trying com.sap.db.jdbc.Driver
+    trying com.amazon.redshift.jdbc.Driver
+11:17:45.289 (11) Trying to establish a protocol version 3 connection to redshift-dwh.c87vzpigpjwn.eu-central-1.redshift.amazonaws.com:5439
+getConnection returning com.amazon.redshift.jdbc.Driver
